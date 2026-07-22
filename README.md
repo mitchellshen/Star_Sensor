@@ -1,2 +1,2 @@
-# Staar_Sensor
+# Star_Sensor
 IMAP-Lo Star Sensor repo
